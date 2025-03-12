@@ -2,8 +2,8 @@
 import os
 
 class Config:
-    TELEGRAM_TOKEN = '7804430632:AAEHuJu6K2Fen85azPayBB00LjNLtaOoUCk'
-    GEMINI_API_KEY = 'AIzaSyCX0kyWeiJOPv6npQSsBJE1nYQzAwpC8H0'
+    TELEGRAM_TOKEN = 'Your Telegram Bot Token'
+    GEMINI_API_KEY = 'Your Gemini API Key'
     
     # File paths
     MEMORY_FILE = 'memory.json'
